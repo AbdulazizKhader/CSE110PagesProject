@@ -26,3 +26,14 @@ We can also do math: x<sub>3</sub><sup>2</sup> = 4. As a wise man once said:
 
 The website I looked at to get all these shapes is [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+## Lists 
+This is what an unordered list looks like:
+- Hi
+- Hello
+- Welcome
+
+This is what an ordered list looks like:
+1. Nice
+2. Cool
+3. Amazing
+

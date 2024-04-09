@@ -6,6 +6,8 @@
 ![git](screenshots/GitCloneRepo.png)
 ![git2](screenshots/GitBranchCheckout.png)
 ![git4](screenshots/GitAddCommitPush.png) 
+[The README file I first made:](README.md)
+
 
 This was an **interesting** part of the source control. 
 The main part of my code is a bunch of:

@@ -6,7 +6,7 @@
 ![git](screenshots/GitCloneRepo.png)
 ![git2](screenshots/GitBranchCheckout.png)
 ![git4](screenshots/GitAddCommitPush.png) 
-[The README file I first made:](README.md)
+[The README file I made with the repo](README.md).
 
 
 This was an **interesting** part of the source control. 

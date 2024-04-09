@@ -37,3 +37,6 @@ This is what an ordered list looks like:
 2. Cool
 3. Amazing
 
+A cool list to make is a task list:
+- [x] Finish my HW
+- [ ] Watch some pre lectures 
